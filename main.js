@@ -25,10 +25,14 @@ let estados=['Acre',
     'São Paulo' ,
     'Sergipe' ,
     'Tocantins']
-    let i=0;
-    while(i<10) {
-console.log(i);
-console.log(estados[i]);
-i++;
-
-    }
+//     let i=0;
+//     while(i<estados.length) {
+// console.log(i);
+// console.log(estados[i]);
+// i++;
+//     }
+for (let j = 0; j < estados.length; j++) {
+    const element = array[index];
+    console.log(i);
+    console.log(estados[j]);
+}
