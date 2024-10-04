@@ -35,7 +35,7 @@ let estados=['Acre',
 //     console.log(j);
 //     console.log(estados[j]);
 // }
-let idade=parent(prompt());
+let idade=parseInt(prompt('qual n°?'));
 if(idade>17){
 console.log('pode dirigir');
 }
