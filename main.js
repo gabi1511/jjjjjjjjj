@@ -32,7 +32,6 @@ let estados=['Acre',
 // i++;
 //     }
 for (let j = 0; j < estados.length; j++) {
-    const element = array[index];
     console.log(j);
     console.log(estados[j]);
 }
