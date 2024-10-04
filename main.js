@@ -1,4 +1,4 @@
-let estados=[Acre,
+let estados=['Acre',
     'Alagoas' ,
     'Amapá' ,
     'Amazonas' ,
